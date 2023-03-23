@@ -8,7 +8,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@types/dat.gui": "^0.7.9",
     "@types/three": "^0.149.0",
+    "dat.gui": "^0.7.9",
     "three": "^0.150.1",
     "ts-loader": "^9.4.2",
     "typescript": "^5.0.2",
